@@ -22,4 +22,4 @@ The bot is provided "as is" without warranties.
 ## 5. Changes
 We may update these terms at any time.
 
-Contact: [Discord username]
+Contact: [em4eofficial]
